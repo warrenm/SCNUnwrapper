@@ -37,6 +37,7 @@
 		836539E82231BA6A00E95FBC /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
 		836539E92231BA6A00E95FBC /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
 		836539EA2231BA6A00E95FBC /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		836539F32231D87500E95FBC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +54,7 @@
 		836539C32231B34F00E95FBC = {
 			isa = PBXGroup;
 			children = (
+				836539F32231D87500E95FBC /* README.md */,
 				836539CE2231B34F00E95FBC /* SCNUnwrapper */,
 				836539CD2231B34F00E95FBC /* Products */,
 			);
